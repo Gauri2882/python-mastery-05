@@ -8,7 +8,7 @@ import tkinter as tk
 
 root = tk.Tk()
 root.title("My First GUI App")
-root.geometry("800x500")
+root.geometry("300x200")
 
 # start the GUI event loop
 
