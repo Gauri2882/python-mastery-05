@@ -23,7 +23,7 @@ def on_click():
     label.config(text = f"Hello, {text}!")
 
 button = tk.Button(root, text = "Click Me", command = on_click)
-button.pack(pady = 10)
+button.pack(pady = 12)
 
 # Run the application
 root.mainloop()
